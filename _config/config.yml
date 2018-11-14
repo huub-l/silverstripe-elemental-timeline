@@ -1,0 +1,6 @@
+---
+Name: huubl-elemental-timeline-config
+---
+SilverStripe\Admin\LeftAndMain:
+  extensions:
+    - Huubl\Elements\Timeline\Extensions\LeftAndMainExtension
