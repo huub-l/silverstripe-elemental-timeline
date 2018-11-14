@@ -12,6 +12,6 @@ class LeftAndMainExtension extends Extension
 {
     public function init()
     {
-        Requirements::css('huubl/silverstripe-elemental-Timeline: icons/icons.css');
+        Requirements::css('huubl/silverstripe-elemental-timeline: icons/icons.css');
     }
 }
