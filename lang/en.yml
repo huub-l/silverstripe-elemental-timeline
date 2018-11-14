@@ -1,0 +1,9 @@
+en:
+  Huubl\Elements\Timeline\Elements\ElementTimeline:
+    BlockType: 'Timeline'
+    ContentLabel: 'Timeline'
+    PLURALNAME: 'Timeline elements'
+    PLURALS:
+      one: 'A Timeline element'
+      other: '{count} Timeline elements'
+    SINGULARNAME: 'Timeline element'
