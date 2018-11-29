@@ -25,7 +25,7 @@ class ElementTimeline extends BaseElement
     /**
      * @var string
      */
-    private static $icon = 'Timeline-icon';
+    private static $icon = 'timeline-icon';
 
     /**
      * @var string

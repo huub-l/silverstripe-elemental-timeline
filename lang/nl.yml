@@ -1,0 +1,9 @@
+nl:
+  Huubl\Elements\Timeline\Elements\ElementTimeline:
+    BlockType: 'Tijdlijn'
+    ContentLabel: 'Tijdlijn'
+    PLURALNAME: 'Tijdlijn elementen'
+    PLURALS:
+      one: 'A Tijdlijn element'
+      other: '{count} Tijdlijn elementen'
+    SINGULARNAME: 'Tijdlijn element'
